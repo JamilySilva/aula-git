@@ -19,7 +19,6 @@ const LinkItem = (props: any) => {
 };
 const LinksImportantes = () => {
   return (
-    //Aqui dentro ficará o nosso JSX
     <View style={stylesLinkImportantes.container}>
       <LinkItem name="Home" />
       <LinkItem name="Post" />

@@ -2,7 +2,6 @@ import { StyleSheet } from "react-native";
 
 export const stylesLink = StyleSheet.create({
   text: {
-    //backgroundColor:"red",
     marginTop: 10,
     color: "#4A4A4C",
     fontSize: 13.71,
@@ -15,7 +14,6 @@ export const stylesLinkImportantes = StyleSheet.create({
     justifyContent: "space-between",
     paddingHorizontal: 40,
     paddingVertical: 10,
-
     borderBottomColor: "#F0F0F0",
     borderBottomWidth: 1,
   },
@@ -44,7 +42,6 @@ export const styles = StyleSheet.create({
   },
   textInput: {
     color: "#F5FFFF",
-    // maxWidth:200
     flex: 1,
     paddingRight: 10,
   },
@@ -58,7 +55,6 @@ export const styles = StyleSheet.create({
   },
   conteudoFacebook: {
     flex: 1,
-    // backgroundColor:"#F0F500",
     justifyContent: "flex-end",
   },
   meubotaoTexto: {

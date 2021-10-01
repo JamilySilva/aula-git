@@ -94,7 +94,6 @@ export default Post;
 
 const styles = StyleSheet.create({
   container: {
-    // backgroundColor:'red',
     padding: 30,
   },
   headerPost: {
